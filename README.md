@@ -26,29 +26,32 @@ Lab documenting installation and configuration of Oracle VirtualBox and a test V
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
+
 ### Downloading VirtualBox
-![Downloading VirtualBox](Downloading Virtual Box.png)
+![Downloading VirtualBox](Downloading%20Virtual%20Box.png)
 
 ### Opening the VirtualBox Installer
-![Open VirtualBox File](Open virtual box file.png)
+![Open VirtualBox File](Open%20virtual%20box%20file.png)
 
 ### VirtualBox Installing
-![VirtualBox Installing](virtual box installing.png)
+![VirtualBox Installing](virtual%20box%20installing.png)
 
 ### Downloading Windows Server 2025 ISO
-![Downloading Windows Server 2025](Downloading Windows Server 2025.png)
+![Downloading Windows Server 2025](Downloading%20Windows%20Server%202025.png)
 
 ### Configuring Windows Server 2025 VM
-![Configuring Windows Server 2025](Configuring Windows Server 2025.png)
+![Configuring Windows Server 2025](Configuring%20Windows%20Server%202025.png)
 
 ### VM Hardware Configuration
-![Specify Hardware Disk](Specify Hardware Disk.png)
+![Specify Hardware Disk](Specify%20Hardware%20Disk.png)
 
 ### Windows Server Booting
-![Windows Server Boot](Screenshot 2026-06-24 170400.png)
+![Windows Server Boot](Screenshot%202026-06-24%20170400.png)
 
 ### Windows Server Running in VirtualBox
-![Windows Server Running](Screenshot 2026-06-24 170418.png)
+![Windows Server Running](Screenshot%202026-06-24%20170418.png)
+
 
 
 
