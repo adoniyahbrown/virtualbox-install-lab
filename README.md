@@ -58,18 +58,10 @@ Lab documenting installation and configuration of Oracle VirtualBox and a test V
 ---
 
 ## 🐞 Troubleshooting Notes
-Some common issues and fixes:
 
-- **Virtualization disabled:**  
-  Enabled Intel VT‑x / AMD‑V in BIOS/UEFI.
+I did not encounter any issues during this lab. All installations and configurations completed successfully.
+ common issues and fixes:
 
-- **Kernel driver error:**  
-  Reinstalled VirtualBox or updated system drivers.
-
-- **VM boot loop:**  
-  Switched disk format to VDI or adjusted boot order.
-
-(Add any issues you personally encountered.)
 
 ---
 
